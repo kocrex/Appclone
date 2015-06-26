@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Send Email</string>
+    <string name="str_button">Send</string>
+    <string name="str_button_cancel">Cancel</string>
+    <string name="str_message">Sending...</string>
+    <string name="str_receive">Receiver: </string>
+    <string name="str_cc">cc:</string>
+    <string name="str_subject">Subject: </string>
+    <string name="str_receive_hint">To</string>
+    <string name="str_cc_hint">Please input compose emaill address</string>
+    <string name="str_subject_hint">Please input your Subject.</string>
+    <string name="str_message_hint">Please input contents.</string>
+    <string name="alert_internet_error_title">Network connection is failed</string>
+    <string name="alert_internet_error_msg">Please check out the connection.</string>
+    <string name="toast_checkuser_true">Authentication is successful, the process will continue.</string>
+    <string name="alert_checkuser_error_title">Message</string>
+    <string name="alert_checkuser_error_msg">Authentication is failed, the process will be terminated.</string>
+    <string name="alert_personal_key_error_title">Message</string>
+    <string name="alert_personal_key_error_msg">Personal Key Error!!</string>
+    <string name="progress_loading_title">App Clone Attack Prevention and Detection (ACAPD)</string>
+    <string name="progress_loading_msg">Check App authorization status with App Security Enhancer…</string>
+    <string name="progress_checkJar">Check Jar…</string>
+    <string name="progress_dynamicLoadingJar">Dynamic LoadingJar…</string>
+
+</resources>
